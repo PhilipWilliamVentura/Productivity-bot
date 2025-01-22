@@ -1,4 +1,4 @@
-This code creates a productivity bot
+This code creates a productivity bot<br/>
 The program tracks idle time (keyboard and mouse inactivity) and reminds you to take breaks at regular intervals.<br/>
 If you’ve been idle for more than the set threshold, a welcome-back message will be displayed.<br/>
 Each break time is logged in a break_log.txt file with a timestamp.<br/>
